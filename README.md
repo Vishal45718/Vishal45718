@@ -1,35 +1,87 @@
-# 👋 Hi there, I'm Vishal Varukolu
+# Hi, I'm Vishal 👋
 
-Welcome to my GitHub! I'm a student who loves building, learning, and solving problems with code. 🚀
-
----
-
-## Skills & Technologies
-
--  **Languages:**  
-  `C` | `C++` | `JavaScript` | `Go`
-  
--  **CS Fundamentals:**  
-  `Data Structures & Algorithms` | `Object-Oriented Programming`
-
--  **Tools & Platforms:**  
-  `Git` | `GitHub` | `Linux` | `VS Code` | `Vim` | `Neovim`
+🎓 B.Tech CSE @ IIT Hyderabad (2023–2027)  
+💻 Full-Stack + Systems Engineer  
+⚡ Interested in Backend, Distributed Systems, and Compilers  
 
 ---
 
+##  About Me
 
-##  Connect With Me
--  [LinkedIn](https://www.linkedin.com/in/vishal-v-ab8a2131b/)
+I build **high-performance systems and scalable full-stack applications**.  
+My work focuses on **backend engineering, compilers, and system-level programming**.
 
-
-
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal45718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-  Strong in: C++, Go, TypeScript, JavaScript  
+-  Core areas: Data Structures, OS, Networks, Compilers  
+-  Tech: Next.js, MySQL, REST APIs, WebSockets  
+-  Open to **Software Engineering Internships (Summer 2026)**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vishal45718&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Featured Projects
 
-Thanks for visiting! Have a great day! 😄
+###  Inventory Management System (Full-Stack)
+- Built a **multi-branch real-time inventory system**
+- Backend in Go with **JWT authentication & REST APIs**
+- Frontend using Next.js + TypeScript  
+- Designed for **scalability and concurrent updates**
+
+ Repo: https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System
+
+---
+
+###  LAOP Compiler
+- Designed a **domain-specific compiler** for linear algebra
+- Converts high-level code → optimized C++ (Eigen)
+- Focused on **performance optimization and code generation**
+
+ Repo: https://github.com/Vishal45718/LAOP-compiler
+
+---
+
+###  TCP Client-Server Analysis
+- Built a **multi-client socket system in C++**
+- Implemented packet analysis + throughput benchmarking
+- Evaluated performance under concurrent loads
+
+ Repo: https://github.com/Vishal45718/TCP-server-client-analysis
+
+---
+
+###  CodeSync – Collaborative Editor
+- Real-time collaborative IDE with:
+  - Live editing
+  - Chat
+  - Multi-language execution
+- Used WebSockets for synchronisation
+
+ Repo: https://github.com/Vishal45718/collaborative-editor
+
+---
+
+##  Other Notable Work
+
+- RISC-V Assembler & Simulator  
+- Cache Simulator  
+- Multithreaded Sudoku Validator  
+- Infinite Precision Arithmetic (100+ digits)  
+- Assignment Tracker (Full-stack app)
+
+---
+
+##  What I Bring
+
+- Ability to design **end-to-end systems**
+- Strong **problem-solving (DSA + systems thinking)**
+- Experience with **real-world architecture (auth, concurrency, APIs)**
+
+---
+
+##  Let's Connect
+
+- GitHub: https://github.com/Vishal45718  
+- LinkedIn: https://www.linkedin.com/in/vishal-v-ab8a2131b/
+
+---
+
+⭐ *Actively looking for internship opportunities. Feel free to reach out!*
