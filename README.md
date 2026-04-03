@@ -1,87 +1,93 @@
-# Hi, I'm Vishal 👋
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">B.Tech CSE @ IIT Hyderabad | Full-Stack & Systems Engineer</h3>
 
-🎓 B.Tech CSE @ IIT Hyderabad (2023–2027)  
-💻 Full-Stack + Systems Engineer  
-⚡ Interested in Backend, Distributed Systems, and Compilers  
+
 
 ---
 
 ##  About Me
 
-I build **high-performance systems and scalable full-stack applications**.  
-My work focuses on **backend engineering, compilers, and system-level programming**.
-
--  Strong in: C++, Go, TypeScript, JavaScript  
--  Core areas: Data Structures, OS, Networks, Compilers  
--  Tech: Next.js, MySQL, REST APIs, WebSockets  
+-  B.Tech in Computer Science @ IIT Hyderabad (2023–2027)  
+-  Building **scalable backend systems & high-performance applications**  
+-  Interested in **Distributed Systems, Compilers, and System Design**  
 -  Open to **Software Engineering Internships (Summer 2026)**  
+
+---
+
+##  Tech Stack
+
+**Languages:**  
+`C++` `Go` `TypeScript` `JavaScript` `Python`
+
+**Backend & Systems:**  
+`REST APIs` `WebSockets` `JWT Auth` `Socket Programming`
+
+**Frontend:**  
+`Next.js` `React` `HTML` `CSS`
+
+**Databases:**  
+`MySQL`
+
+**Core CS:**  
+`DSA` `Operating Systems` `Computer Networks` `Compilers`
 
 ---
 
 ##  Featured Projects
 
-###  Inventory Management System (Full-Stack)
-- Built a **multi-branch real-time inventory system**
-- Backend in Go with **JWT authentication & REST APIs**
-- Frontend using Next.js + TypeScript  
+###  Inventory Management System
+- Built a **real-time multi-branch inventory system**
+- Backend in **Go** with JWT authentication & REST APIs  
+- Frontend using **Next.js + TypeScript**
 - Designed for **scalability and concurrent updates**
 
- Repo: https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System
+ [View Project](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
 
 ---
 
 ###  LAOP Compiler
 - Designed a **domain-specific compiler** for linear algebra
-- Converts high-level code → optimized C++ (Eigen)
-- Focused on **performance optimization and code generation**
+- Converts high-level code → **optimized C++ (Eigen-based)**
+- Focused on **code generation and performance optimization**
 
- Repo: https://github.com/Vishal45718/LAOP-compiler
+ [View Project](https://github.com/Vishal45718/LAOP-compiler)
 
 ---
 
-###  TCP Client-Server Analysis
+###  TCP Client-Server System
 - Built a **multi-client socket system in C++**
-- Implemented packet analysis + throughput benchmarking
-- Evaluated performance under concurrent loads
+- Implemented **packet analysis & throughput benchmarking**
+- Evaluated performance under **concurrent loads**
 
- Repo: https://github.com/Vishal45718/TCP-server-client-analysis
+ [View Project](https://github.com/Vishal45718/TCP-server-client-analysis)
 
 ---
 
 ###  CodeSync – Collaborative Editor
 - Real-time collaborative IDE with:
-  - Live editing
-  - Chat
-  - Multi-language execution
-- Used WebSockets for synchronisation
+  - Live editing  
+  - Chat system  
+  - Multi-language execution  
+- Used **WebSockets for real-time synchronization**
 
- Repo: https://github.com/Vishal45718/collaborative-editor
+ [View Project](https://github.com/Vishal45718/collaborative-editor)
 
----
-
-##  Other Notable Work
-
-- RISC-V Assembler & Simulator  
-- Cache Simulator  
-- Multithreaded Sudoku Validator  
-- Infinite Precision Arithmetic (100+ digits)  
-- Assignment Tracker (Full-stack app)
 
 ---
 
 ##  What I Bring
 
-- Ability to design **end-to-end systems**
-- Strong **problem-solving (DSA + systems thinking)**
-- Experience with **real-world architecture (auth, concurrency, APIs)**
+-  Strong **systems + backend engineering mindset**
+-  Solid **problem-solving (DSA + real-world application)**
+-  Experience building **end-to-end scalable systems**
 
 ---
 
-##  Let's Connect
+## 📫 Connect With Me
 
-- GitHub: https://github.com/Vishal45718  
-- LinkedIn: https://www.linkedin.com/in/vishal-v-ab8a2131b/
+- GitHub: [Vishal45718](https://github.com/Vishal45718)  
+- LinkedIn: [Vishal Varukolu](https://www.linkedin.com/in/vishal-v-ab8a2131b/)
 
 ---
 
-⭐ *Actively looking for internship opportunities. Feel free to reach out!*
+⭐ *Actively seeking internship opportunities — feel free to reach out!*
