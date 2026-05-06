@@ -1,93 +1,76 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">B.Tech CSE @ IIT Hyderabad | Full-Stack & Systems Engineer</h3>
+# Hi 👋, I'm Vishal Varukolu
 
+### B.Tech in Computer Science @ IIT Hyderabad (2023–2027)
+**Building scalable backend systems & high-performance applications**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishal-V-ab8a2131b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/vishal_varukolu) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vv140220006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://github.com/Vishal45718)
 
 ---
 
 ##  About Me
-
--  B.Tech in Computer Science @ IIT Hyderabad (2023–2027)  
--  Building **scalable backend systems & high-performance applications**  
--  Interested in **Distributed Systems, Compilers, and System Design**  
--  Open to **Software Engineering Internships (Summer 2026)**  
+-  **Focus:** Distributed Systems, Compilers, and Low-Level System Design.
+-  **Current Work:** Developing high-concurrency backend services and optimization tools.
+-  **Education:** Pursuing B.Tech CSE at Indian Institute of Technology, Hyderabad.
+-  **Goal:** Seeking **Software Engineering Internships for Summer 2026**.
 
 ---
 
 ##  Tech Stack
 
-**Languages:**  
-`C++` `Go` `TypeScript` `JavaScript` `Python`
-
-**Backend & Systems:**  
-`REST APIs` `WebSockets` `JWT Auth` `Socket Programming`
-
-**Frontend:**  
-`Next.js` `React` `HTML` `CSS`
-
-**Databases:**  
-`MySQL`
-
-**Core CS:**  
-`DSA` `Operating Systems` `Computer Networks` `Compilers`
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `C++` `Go` `TypeScript` `C` `Python` `JavaScript` `Bash` |
+| **Backend/Systems** | `Node.js` `NestJS` `Express` `WebSockets` `JWT` |
+| **Frontend** | `Next.js` `React` `TailwindCSS`  |
+| **Data & ML** | `MySQL` `MongoDB` `PostgreSQL` `PyTorch` `NumPy` `Pandas` |
+| **DevOps/Tools** | `Docker` `Git`  `Vercel` `LaTeX` |
 
 ---
 
 ##  Featured Projects
 
-###  Inventory Management System
-- Built a **real-time multi-branch inventory system**
-- Backend in **Go** with JWT authentication & REST APIs  
-- Frontend using **Next.js + TypeScript**
-- Designed for **scalability and concurrent updates**
+###  [Inventory Management System](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
+*Real-time multi-branch system built for high concurrency.*
+- **Tech:** Go, Next.js, JWT, PostgreSQL.
+- **Key Feature:** Designed a scalable backend capable of handling atomic stock updates across multiple locations.
 
- [View Project](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
+###  [LAOP Compiler](https://github.com/Vishal45718/LAOP-compiler)
+*Domain-specific compiler for Linear Algebra operations.*
+- **Tech:** C++, Eigen Library.
+- **Key Feature:** Translates high-level matrix logic into optimized C++ code, focusing on memory alignment and execution speed.
 
----
+###  [CodeSync – Collaborative Editor](https://github.com/Vishal45718/collaborative-editor)
+*Real-time IDE with live execution and chat.*
+- **Tech:** React, Node.js, Socket.io.
+- **Key Feature:** Implemented operational transformation logic to handle simultaneous edits without conflicts.
 
-###  LAOP Compiler
-- Designed a **domain-specific compiler** for linear algebra
-- Converts high-level code → **optimized C++ (Eigen-based)**
-- Focused on **code generation and performance optimization**
-
- [View Project](https://github.com/Vishal45718/LAOP-compiler)
-
----
-
-###  TCP Client-Server System
-- Built a **multi-client socket system in C++**
-- Implemented **packet analysis & throughput benchmarking**
-- Evaluated performance under **concurrent loads**
-
- [View Project](https://github.com/Vishal45718/TCP-server-client-analysis)
+###  [TCP Client-Server Analysis](https://github.com/Vishal45718/TCP-server-client-analysis)
+*High-performance socket programming and benchmarking.*
+- **Tech:** C++, Linux Sockets.
+- **Key Feature:** Benchmarked throughput and packet loss under simulated heavy network loads.
 
 ---
 
-###  CodeSync – Collaborative Editor
-- Real-time collaborative IDE with:
-  - Live editing  
-  - Chat system  
-  - Multi-language execution  
-- Used **WebSockets for real-time synchronization**
+##  GitHub Analytics
 
- [View Project](https://github.com/Vishal45718/collaborative-editor)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Vishal45718&show_icons=true&theme=tokyonight&count_private=true" alt="Vishal's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vishal45718&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
-
----
-
-##  What I Bring
-
--  Strong **systems + backend engineering mindset**
--  Solid **problem-solving (DSA + real-world application)**
--  Experience building **end-to-end scalable systems**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vishal45718&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+##  How to reach me
+- **Internship Inquiries:** [vv140220006@gmail.com](mailto:vv140220006@gmail.com)
+- **LinkedIn:** [linkedin.com/in/Vishal-V](https://www.linkedin.com/in/vishal-v-ab8a2131b/)
 
-- GitHub: [Vishal45718](https://github.com/Vishal45718)  
-- LinkedIn: [Vishal Varukolu](https://www.linkedin.com/in/vishal-v-ab8a2131b/)
-
----
-
-⭐ *Actively seeking internship opportunities — feel free to reach out!*
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Vishal45718&color=blue" alt="Profile Views" />
+</p>
