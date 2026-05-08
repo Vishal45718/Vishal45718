@@ -39,7 +39,7 @@
 ###  [LAOP Compiler](https://github.com/Vishal45718/LAOP-compiler)
 *Domain-specific compiler for Linear Algebra operations.*
 - **Tech:** C++, Eigen Library.
-- **Key Feature:** Translates high-level matrix logic into optimized C++ code, focusing on memory alignment and execution speed.
+- **Key Feature:** Translates high-level matrix logic into optimised C++ code, focusing on memory alignment and execution speed.
 
 ###  [CodeSync – Collaborative Editor](https://github.com/Vishal45718/collaborative-editor)
 *Real-time IDE with live execution and chat.*
