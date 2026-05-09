@@ -5,14 +5,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishal-V-ab8a2131b/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/vishal_varukolu) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vv140220006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vv14022006@gmail.com)
 
 ---
 
 ##  About Me
 -  **Focus:** Distributed Systems, Compilers, and Low-Level System Design.
--  **Current Work:** Developing high-concurrency backend services and optimization tools.
--  **Education:** Pursuing B.Tech CSE at Indian Institute of Technology, Hyderabad.
+-  **Current Work:** Developing high-concurrency backend services and optimisation tools.
+-  **Education:** Pursuing B.Tech CSE at the Indian Institute of Technology, Hyderabad.
 -  **Goal:** Seeking **Software Engineering Internships for Summer 2026**.
 
 ---
