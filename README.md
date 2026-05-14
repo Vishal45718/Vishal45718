@@ -10,10 +10,11 @@
 ---
 
 ##  About Me
--  **Focus:** Distributed Systems, Compilers, and Low-Level System Design.
--  **Current Work:** Developing high-concurrency backend services and optimisation tools.
--  **Education:** Pursuing B.Tech CSE at the Indian Institute of Technology, Hyderabad.
--  **Goal:** Seeking **Software Engineering Internships for Summer 2026**.
+
+- **Focus:** Distributed Systems, Compilers, and Low-Level System Design.
+- **Current Work:** Developing high-concurrency backend services and optimisation tools.
+- **Education:** Pursuing B.Tech CSE at the Indian Institute of Technology, Hyderabad.
+- **Goal:** Seeking **Software Engineering Internships for Summer 2026**.
 
 ---
 
@@ -23,31 +24,39 @@
 | :--- | :--- |
 | **Languages** | `C++` `Go` `TypeScript` `C` `Python` `JavaScript` `Bash` |
 | **Backend/Systems** | `Node.js` `NestJS` `Express` `WebSockets` `JWT` |
-| **Frontend** | `Next.js` `React` `TailwindCSS`  |
+| **Frontend** | `Next.js` `React` `TailwindCSS` |
 | **Data & ML** | `MySQL` `MongoDB` `PostgreSQL` `PyTorch` `NumPy` `Pandas` |
-| **DevOps/Tools** | `Docker` `Git`  `Vercel` `LaTeX` |
+| **DevOps/Tools** | `Docker` `Git` `Vercel` `LaTeX` |
 
 ---
 
 ##  Featured Projects
 
-###  [Inventory Management System](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
+### [Inventory Management System](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
+
 *Real-time multi-branch system built for high concurrency.*
+
 - **Tech:** Go, Next.js, JWT, PostgreSQL.
 - **Key Feature:** Designed a scalable backend capable of handling atomic stock updates across multiple locations.
 
-###  [LAOP Compiler](https://github.com/Vishal45718/LAOP-compiler)
+### [LAOP Compiler](https://github.com/Vishal45718/LAOP-compiler)
+
 *Domain-specific compiler for Linear Algebra operations.*
+
 - **Tech:** C++, Eigen Library.
 - **Key Feature:** Translates high-level matrix logic into optimised C++ code, focusing on memory alignment and execution speed.
 
-###  [CodeSync – Collaborative Editor](https://github.com/Vishal45718/collaborative-editor)
+### [CodeSync – Collaborative Editor](https://github.com/Vishal45718/collaborative-editor)
+
 *Real-time IDE with live execution and chat.*
+
 - **Tech:** React, Node.js, Socket.io.
 - **Key Feature:** Implemented operational transformation logic to handle simultaneous edits without conflicts.
 
-###  [TCP Client-Server Analysis](https://github.com/Vishal45718/TCP-server-client-analysis)
+### [TCP Client-Server Analysis](https://github.com/Vishal45718/TCP-server-client-analysis)
+
 *High-performance socket programming and benchmarking.*
+
 - **Tech:** C++, Linux Sockets.
 - **Key Feature:** Benchmarked throughput and packet loss under simulated heavy network loads.
 
@@ -56,8 +65,9 @@
 ##  GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vishal45718&show_icons=true&theme=tokyonight&count_private=true" alt="Vishal's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vishal45718&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal45718&show_icons=true&theme=tokyonight&count_private=true" alt="Vishal's GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal45718&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
@@ -67,7 +77,8 @@
 ---
 
 ##  How to reach me
-- **Internship Inquiries:** [vv140220006@gmail.com](mailto:vv140220006@gmail.com)
+
+- **Internship Inquiries:** [vv14022006@gmail.com](mailto:vv14022006@gmail.com)
 - **LinkedIn:** [linkedin.com/in/Vishal-V](https://www.linkedin.com/in/vishal-v-ab8a2131b/)
 
 <p align="right">
