@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishal Varukolu
+# Hi , I'm Vishal Varukolu
 
 ### B.Tech in Computer Science @ IIT Hyderabad (2023–2027)
 **Building scalable backend systems & high-performance applications**
