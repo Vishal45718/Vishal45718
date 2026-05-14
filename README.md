@@ -60,27 +60,42 @@
 - **Tech:** C++, Linux Sockets.
 - **Key Feature:** Benchmarked throughput and packet loss under simulated heavy network loads.
 
----
-
-##  GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal45718&show_icons=true&theme=tokyonight&count_private=true" alt="Vishal's GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal45718&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal45718&theme=tokyonight"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vishal45718&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal45718&theme=tokyonight"
+    width="48%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishal45718&theme=tokyonight"
+    width="48%"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishal45718&theme=tokyonight"
+    width="48%"
+  />
 
-##  How to reach me
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishal45718&theme=tokyonight&utcOffset=5.5"
+    width="48%"
+  />
+</p>
 
-- **Internship Inquiries:** [vv14022006@gmail.com](mailto:vv14022006@gmail.com)
-- **LinkedIn:** [linkedin.com/in/Vishal-V](https://www.linkedin.com/in/vishal-v-ab8a2131b/)
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Vishal45718&color=blue" alt="Profile Views" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Vishal45718&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
 </p>
