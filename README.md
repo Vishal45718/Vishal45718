@@ -13,8 +13,7 @@
 
 - **Focus:** Distributed Systems, Compilers, and Low-Level System Design.
 - **Current Work:** Developing high-concurrency backend services and optimisation tools.
-- **Education:** Pursuing B.Tech CSE at the Indian Institute of Technology, Hyderabad.
-- **Goal:** Seeking **Software Engineering Internships for Summer 2026**.
+- **Education:** Pursuing B.Tech CSE at the Indian Institute of Technology, Hyderabad
 
 ---
 
