@@ -12,16 +12,16 @@ I like working close to the metal and tracing problems across the stack — from
 
 ## Selected work
 
-### [TrainPulse](#trainpulse)
+### TrainPulse
 *Research · Distributed training observability*
 
-Co-developed a lightweight fault-localization pipeline for multi-node LLM training. The work combines iteration-time change detection, component-level anomaly scores, and dependency-aware reasoning to distinguish likely sources of fail-slow behavior.
+Co-developed a lightweight fault-localization pipeline for multi-node LLM training. It combines iteration-time change detection, component-level anomaly scores, and dependency-aware reasoning to narrow down likely sources of fail-slow behavior.
 
-> Under submission to ACM SIGMETRICS 2027. See resume for reported evaluation results.
+Evaluated on a 4-node cluster fine-tuning Llama 3 8B, the reported results were **100% single-fault localization accuracy with under 1% runtime overhead**, compared with 2.18% overhead for the PyTorch profiler.
 
 **Stack:** Python · PyTorch DDP · distributed GPU training
 
-*The research code is not linked here yet; contact me for details.*
+*Under submission to ACM SIGMETRICS 2027. The research code is not public yet; contact me for details.*
 
 ### [LAOP Compiler](https://github.com/Vishal45718/LAOP-compiler)
 *Compiler backend · C++*
