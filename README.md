@@ -63,6 +63,6 @@ I prefer small, testable components, explicit trade-offs, and measurements over 
 
 ## Elsewhere
 
-- [LeetCode](https://leetcode.com/) — 500+ DSA problems solved
+- LeetCode — 500+ DSA problems solved
 - [LinkedIn](https://linkedin.com/in/Vishal-V-ab8a2131b/)
 - [Email](mailto:vv14022006@gmail.com)
