@@ -14,7 +14,7 @@
       <p><code>systems</code> · <code>backend infrastructure</code> · <code>compilers</code> · <code>applied ML</code></p>
     </td>
     <td valign="middle" align="right" width="22%">
-      <img src="./assets/iith-logo.jpg" width="105" alt="Indian Institute of Technology Hyderabad logo"/>
+      <img src="./assets/IITH.png" width="105" alt="Indian Institute of Technology Hyderabad logo"/>
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
     </td>
     <td valign="middle" align="center" width="33%">
       <a href="mailto:vv14022006@gmail.com" title="Send me an email">
-        <img src="./assets/contact-cat.jpg" width="175" alt="A surprised ginger cat holding a telephone handset — contact me"/>
+        <img src="./assets/contact-cat.png" width="175" alt="A surprised ginger cat holding a telephone handset — contact me"/>
       </a>
       <br/>
       <sub><strong>Operator standing by.</strong></sub>
@@ -155,7 +155,7 @@ A multi-branch inventory application with REST APIs, JWT authentication, role-ba
 ### Thanks for stopping by!
 
 <a href="https://github.com/Vishal45718">
-  <img src="./assets/thankyou-cat.jpg" width="210" alt="A curious cat looking into the camera — thanks for visiting my profile"/>
+  <img src="./assets/cat_1.png" width="210" alt="A curious cat looking into the camera — thanks for visiting my profile"/>
 </a>
 
 <sub><code>exit 0</code> · Thanks for visiting my corner of GitHub.</sub>
