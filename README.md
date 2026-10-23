@@ -1,38 +1,59 @@
 <!--
   Vishal Varukolu — GitHub Profile README
   Live profile snapshot: assets/profile-dashboard.svg
+  IITH logo + contact/thank-you cat images are stored in assets/.
   Generator: scripts/generate_profile_dashboard.py
   Schedule: .github/workflows/profile-dashboard.yml
 -->
 
+<table>
+  <tr>
+    <td valign="middle" width="78%">
+      <h1>Vishal Varukolu</h1>
+      <p><strong>CSE @ IIT Hyderabad · Class of 2027</strong></p>
+      <p><code>systems</code> · <code>backend infrastructure</code> · <code>compilers</code> · <code>applied ML</code></p>
+    </td>
+    <td valign="middle" align="right" width="22%">
+      <img src="./assets/iith-logo.jpg" width="105" alt="Indian Institute of Technology Hyderabad logo"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
+  <sub><code>vishal@iith:~$ ./profile --snapshot</code></sub>
+</div>
 
-# Vishal Varukolu
+<table>
+  <tr>
+    <td valign="middle" width="67%">
+      <h3>☎ Contact me</h3>
+      <p>
+        <a href="https://linkedin.com/in/Vishal-V-ab8a2131b/">
+          <img src="https://img.shields.io/badge/LINKEDIN-connect-172033?style=flat-square&logo=linkedin&logoColor=67E8A5" alt="Connect on LinkedIn"/>
+        </a>
+      </p>
+      <p>
+        <a href="mailto:vv14022006@gmail.com">
+          <img src="https://img.shields.io/badge/EMAIL-say_hello-172033?style=flat-square&logo=gmail&logoColor=67E8A5" alt="Email Vishal"/>
+        </a>
+      </p>
+      <sub>Usually happy to talk systems, infrastructure, compilers, and applied ML.</sub>
+    </td>
+    <td valign="middle" align="center" width="33%">
+      <a href="mailto:vv14022006@gmail.com" title="Send me an email">
+        <img src="./assets/contact-cat.jpg" width="175" alt="A surprised ginger cat holding a telephone handset — contact me"/>
+      </a>
+      <br/>
+      <sub><strong>Operator standing by.</strong></sub>
+    </td>
+  </tr>
+</table>
 
-**CSE @ IIT Hyderabad · Class of 2027**
-
-`systems` · `backend infrastructure` · `compilers` · `applied ML`
-
-<br/>
-
-<a href="mailto:vv14022006@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-contact-172033?style=flat-square&logo=gmail&logoColor=67E8A5" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/Vishal-V-ab8a2131b/">
-  <img src="https://img.shields.io/badge/LINKEDIN-connect-172033?style=flat-square&logo=linkedin&logoColor=67E8A5" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Vishal45718">
-  <img src="https://img.shields.io/badge/GITHUB-Vishal45718-172033?style=flat-square&logo=github&logoColor=67E8A5" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Vishal45718">
-  <img src="./assets/profile-dashboard.svg" width="100%" alt="Terminal-style live GitHub dashboard showing public repositories, stars, forks, and followers"/>
-</a>
-
-<sub><code>./profile --snapshot</code> · public GitHub metrics · daily refresh</sub>
-
+<div align="center">
+  <a href="https://github.com/Vishal45718">
+    <img src="./assets/profile-dashboard.svg" width="100%" alt="Terminal-style live GitHub dashboard showing public repositories, stars, forks, and followers"/>
+  </a>
+  <sub><code>./profile --snapshot</code> · public GitHub metrics · daily refresh</sub>
 </div>
 
 ---
@@ -130,6 +151,16 @@ A multi-branch inventory application with REST APIs, JWT authentication, role-ba
 - **Email:** [vv14022006@gmail.com](mailto:vv14022006@gmail.com)
 
 <div align="center">
+
+### Thanks for stopping by!
+
+<a href="https://github.com/Vishal45718">
+  <img src="./assets/thankyou-cat.jpg" width="210" alt="A curious cat looking into the camera — thanks for visiting my profile"/>
+</a>
+
+<sub><code>exit 0</code> · Thanks for visiting my corner of GitHub.</sub>
+
+<br/>
 
 <sub><code>principle.txt</code> — I prefer understanding why a system behaves the way it does, not just making it run.</sub>
 
