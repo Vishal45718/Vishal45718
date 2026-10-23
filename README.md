@@ -1,100 +1,68 @@
-# Hi , I'm Vishal Varukolu
+# Vishal Varukolu
 
-### B.Tech in Computer Science @ IIT Hyderabad (2023–2027)
-**Building scalable backend systems & high-performance applications**
+CSE @ IIT Hyderabad · 2027
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishal-V-ab8a2131b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/vishal_varukolu) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vv14022006@gmail.com)
+I like working close to the metal and tracing problems across the stack — from compiler passes and data structures to distributed services and GPU training systems.
 
----
-
-##  About Me
-
-- **Focus:** Distributed Systems, Compilers, and Low-Level System Design.
-- **Current Work:** Developing high-concurrency backend services and optimisation tools.
-- **Education:** Pursuing B.Tech CSE at the Indian Institute of Technology, Hyderabad
+- **Interests:** systems, backend infrastructure, compilers, applied ML
+- **Currently building:** tools for reasoning about failures in distributed training
+- **Contact:** [Email](mailto:vv14022006@gmail.com) · [LinkedIn](https://linkedin.com/in/Vishal-V-ab8a2131b/)
 
 ---
 
-##  Tech Stack
+## Selected work
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `C++` `Go` `TypeScript` `C` `Python` `JavaScript` `Bash` |
-| **Backend/Systems** | `Node.js` `NestJS` `Express` `WebSockets` `JWT` |
-| **Frontend** | `Next.js` `React` `TailwindCSS` |
-| **Data & ML** | `MySQL` `MongoDB` `PostgreSQL` `PyTorch` `NumPy` `Pandas` |
-| **DevOps/Tools** | `Docker` `Git` `Vercel` `LaTeX` |
+### [TrainPulse](#trainpulse)
+*Research · Distributed training observability*
 
----
+Co-developed a lightweight fault-localization pipeline for multi-node LLM training. The work combines iteration-time change detection, component-level anomaly scores, and dependency-aware reasoning to distinguish likely sources of fail-slow behavior.
 
-##  Featured Projects
+> Under submission to ACM SIGMETRICS 2027. See resume for reported evaluation results.
 
-### [Inventory Management System](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
+**Stack:** Python · PyTorch DDP · distributed GPU training
 
-*Real-time multi-branch system built for high concurrency.*
-
-- **Tech:** Go, Next.js, JWT, PostgreSQL.
-- **Key Feature:** Designed a scalable backend capable of handling atomic stock updates across multiple locations.
+*The research code is not linked here yet; contact me for details.*
 
 ### [LAOP Compiler](https://github.com/Vishal45718/LAOP-compiler)
+*Compiler backend · C++*
 
-*Domain-specific compiler for Linear Algebra operations.*
+A domain-specific compiler for linear-algebra expressions. The backend performs semantic checks and emits Eigen-based C++ code, with matrix-chain ordering as an optimization pass.
 
-- **Tech:** C++, Eigen Library.
-- **Key Feature:** Translates high-level matrix logic into optimised C++ code, focusing on memory alignment and execution speed.
+**Stack:** C++ · Eigen
 
-### [CodeSync – Collaborative Editor](https://github.com/Vishal45718/collaborative-editor)
+### [Self-Healing RAG](https://github.com/Vishal45718/Self_Healing_RAG)
+*Retrieval and evaluation · Python*
 
-*Real-time IDE with live execution and chat.*
+A RAG pipeline that can critique its own response path: reformulate a query, retry grounded generation, or abstain when the evidence is weak. Includes an evaluation harness for comparison against baseline retrieval.
 
-- **Tech:** React, Node.js, Socket.io.
-- **Key Feature:** Implemented operational transformation logic to handle simultaneous edits without conflicts.
+**Stack:** Python · LangGraph · ChromaDB · Sentence Transformers
 
-### [TCP Client-Server Analysis](https://github.com/Vishal45718/TCP-server-client-analysis)
+### [Scalable Recommendation System](https://github.com/Vishal45718/Scalable_Recommendation_System)
+*Backend / data infrastructure · Python*
 
-*High-performance socket programming and benchmarking.*
+An event-driven recommendation-system project exploring Kafka ingestion, vector retrieval with FAISS, and a Redis-backed feature cache.
 
-- **Tech:** C++, Linux Sockets.
-- **Key Feature:** Benchmarked throughput and packet loss under simulated heavy network loads.
+**Stack:** FastAPI · Kafka · FAISS · Redis · PostgreSQL
 
-## GitHub Analytics
+### [Inventory Management System](https://github.com/Vishal45718/IMS_Full-Stack-Inventory-Management-System)
+*Full-stack · Go + web*
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal45718&theme=tokyonight"
-    width="100%"
-  />
-</p>
+A multi-branch inventory application with REST APIs, JWT authentication, role-based access, and relational data constraints around stock and orders.
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal45718&theme=tokyonight"
-    width="48%"
-  />
+**Stack:** Go · Gin · MySQL · Next.js
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishal45718&theme=tokyonight"
-    width="48%"
-  />
-</p>
+---
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishal45718&theme=tokyonight"
-    width="48%"
-  />
+## Tools I use
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishal45718&theme=tokyonight&utcOffset=5.5"
-    width="48%"
-  />
-</p>
+`C++` · `Python` · `Go` · `TypeScript` · `SQL` · `Linux` · `Docker` · `PostgreSQL` · `Redis` · `PyTorch`
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Vishal45718&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
-</p>
+I prefer small, testable components, explicit trade-offs, and measurements over claims of scale without benchmarks.
+
+---
+
+## Elsewhere
+
+- [LeetCode](https://leetcode.com/) — 500+ DSA problems solved
+- [LinkedIn](https://linkedin.com/in/Vishal-V-ab8a2131b/)
+- [Email](mailto:vv14022006@gmail.com)
