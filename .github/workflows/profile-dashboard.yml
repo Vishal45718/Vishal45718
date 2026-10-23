@@ -37,12 +37,12 @@ jobs:
 
       - name: Commit dashboard if changed
         run: |
-          if git diff --quiet -- assets/profile-dashboard.svg; then
+          git add assets/profile-dashboard.svg
+          if git diff --cached --quiet; then
             echo "Dashboard has no changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/profile-dashboard.svg
           git commit -m "chore: refresh profile dashboard"
           git push
