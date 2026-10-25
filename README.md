@@ -6,15 +6,15 @@
   Schedule: .github/workflows/profile-dashboard.yml
 -->
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="middle" width="78%">
+    <td valign="middle" width="75%">
       <h1>Vishal Varukolu</h1>
       <p><strong>CSE @ IIT Hyderabad · Class of 2027</strong></p>
       <p><code>systems</code> · <code>backend infrastructure</code> · <code>compilers</code> · <code>applied ML</code></p>
     </td>
-    <td valign="middle" align="right" width="22%">
-      <img src="./assets/IITH.png" width="105" alt="Indian Institute of Technology Hyderabad logo"/>
+    <td valign="middle" align="right" width="25%">
+      <img src="./assets/IITH.png" width="160" alt="Indian Institute of Technology Hyderabad logo"/>
     </td>
   </tr>
 </table>
@@ -23,9 +23,9 @@
   <sub><code>vishal@iith:~$ ./profile --snapshot</code></sub>
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="middle" width="67%">
+    <td valign="middle" width="58%">
       <h3>☎ Contact me</h3>
       <p>
         <a href="https://linkedin.com/in/Vishal-V-ab8a2131b/">
@@ -39,9 +39,9 @@
       </p>
       <sub>Usually happy to talk systems, infrastructure, compilers, and applied ML.</sub>
     </td>
-    <td valign="middle" align="center" width="33%">
+    <td valign="middle" align="center" width="42%">
       <a href="mailto:vv14022006@gmail.com" title="Send me an email">
-        <img src="./assets/contact-cat.png" width="175" alt="A surprised ginger cat holding a telephone handset — contact me"/>
+        <img src="./assets/contact-cat.png" width="100%" alt="A surprised ginger cat holding a telephone handset — contact me"/>
       </a>
       <br/>
       <sub><strong>Operator standing by.</strong></sub>
@@ -155,7 +155,7 @@ A multi-branch inventory application with REST APIs, JWT authentication, role-ba
 ### Thanks for stopping by!
 
 <a href="https://github.com/Vishal45718">
-  <img src="./assets/cat_1.png" width="210" alt="A curious cat looking into the camera — thanks for visiting my profile"/>
+  <img src="./assets/cat_1.png" width="300" alt="A curious cat looking into the camera — thanks for visiting my profile"/>
 </a>
 
 <sub><code>exit 0</code> · Thanks for visiting my corner of GitHub.</sub>
